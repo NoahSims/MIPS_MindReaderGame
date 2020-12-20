@@ -2,9 +2,9 @@
 A game developed in MIPS assembly language that will guess the number you are thinking of.
 
 Developed by:
--Noah Sims
--Yun Ho Jung
--Ashley Zheng
+- Noah Sims
+- Yun Ho Jung
+- Ashley Zheng
 
 To run the game:
 1)	Open the MindReaderGame.asm file in MARS, then assemble and run the program to begin the game.
