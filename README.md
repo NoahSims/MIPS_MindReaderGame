@@ -12,3 +12,7 @@ To run the game:
 3)	As the game proceeds, the user will be presented with a card of 32 numbers and the game will ask if the user’s number is on the card. Respond ‘y’ if the number was on the card     or ‘n’ if the number was not on the card.
 4)	Repeat step 3 until the game works out the user’s number
 5)	The game will then give the user the option to play again. Enter ‘y’ to begin the game again or ‘n’ to exit the program
+
+MARS MIPS simulator can be downloaded here: http://courses.missouristate.edu/kenvollmar/mars/
+
+![alt text](https://github.com/NoahSims/MIPS_MindReaderGame/MIPS_MindReaderGame.PNG "example game")
