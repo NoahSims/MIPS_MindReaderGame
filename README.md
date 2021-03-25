@@ -15,4 +15,4 @@ To run the game:
 
 MARS MIPS simulator can be downloaded here: http://courses.missouristate.edu/kenvollmar/mars/
 
-![alt text](https://github.com/NoahSims/MIPS_MindReaderGame/MIPS_MindReaderGame.PNG "example game")
+![alt text](https://github.com/NoahSims/MIPS_MindReaderGame/blob/master/MIPS_MindReaderGame.png "example game")
